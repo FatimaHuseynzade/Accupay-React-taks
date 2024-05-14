@@ -346,8 +346,8 @@ color: #060b1e;
 
   .one {
     width: 100%;
-    height: 300px; /* Vəsaitə uyğun olaraq hündürlüyü təyin edin */
-    background-size: cover; /* Şəkilin ölçüsünü ölçüsüne uyğunlaşdırın */
+    height: 300px; 
+    background-size: cover;
   }
 
   .son {
