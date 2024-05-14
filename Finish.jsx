@@ -17,7 +17,9 @@ function Finish() {
 </div>
 
 <div className='son'>
-<div className='one'></div>
+<div class="one">
+  {/* <img src="../foto3.png" alt="" /> */}
+</div>
 <div className='two'>
     <h1>Consolidate Payroll Processing</h1>
     <p>We have designed a fast and effective payroll system that streamlines your payment process.</p>
@@ -34,13 +36,15 @@ function Finish() {
     </div>
     <p className='p3'>Payroll Processing</p>
 </div>
-<div className='font'>
+    </div>
+    <div className='dont2'>
+    <div className='size'>
     <div className='daire'>
     <GiLightBulb  className='icons3'/>
     </div>
     <p className='p3'>Cost Effective</p>
 </div>
-<div className='font'>
+<div className='size'>
     <div className='daire'>
     <IoRocketSharp className='icons3' />
     </div>
